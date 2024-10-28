@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/195986924689482978/c7742e47218b47c597acf99463c35df9/artifacts
+end_time: 1730135796283
+entry_point_name: ''
+experiment_id: '195986924689482978'
+lifecycle_stage: active
+run_id: c7742e47218b47c597acf99463c35df9
+run_name: melodic-wolf-328
+run_uuid: c7742e47218b47c597acf99463c35df9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730135787488
+status: 3
+tags: []
+user_id: Gyanender Kumar

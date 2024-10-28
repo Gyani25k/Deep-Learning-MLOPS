@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1730135858108
+current_stage: None
+description: ''
+last_updated_timestamp: 1730135858108
+name: quickstart
+run_id: 329ed048707f46468fcd6cc5ada75a0f
+run_link: ''
+source: mlflow-artifacts:/195986924689482978/329ed048707f46468fcd6cc5ada75a0f/artifacts/iris_model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/195986924689482978/329ed048707f46468fcd6cc5ada75a0f/artifacts/iris_model
+user_id: null
+version: 2
