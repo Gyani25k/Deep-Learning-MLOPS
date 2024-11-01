@@ -161,5 +161,20 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-mlruns/
+# Ignore mlops directory and its contents
+mlops/
+
+# Specific directories to ignore
 mlartifacts/
+mlruns/
+.trash/
+
+# Ignore numbered directories
+/0/
+/[0-9]*/
+
+# Ignore version directories
+models/quickstart/version-*/
+
+# Ignore specific files
+meta.yaml
