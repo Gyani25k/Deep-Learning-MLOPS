@@ -178,3 +178,5 @@ models/quickstart/version-*/
 
 # Ignore specific files
 meta.yaml
+
+Project1-Using-Mlflow/mlruns/
